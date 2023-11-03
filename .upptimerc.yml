@@ -36,10 +36,14 @@ status-website:
   navbar:
     - title: Duinocoin.com
       href: https://duinocoin.com
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Wallet
+      href: https://wallet.duinocoin.com
+    - title: Explorer
+      href: https://explorer.duinocoin.com
+    #- title: Status
+    #  href: /
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
