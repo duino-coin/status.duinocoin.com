@@ -5,15 +5,18 @@ repo: status-page # The name of this repository
 sites:
   - name: Duinocoin.com
     url: https://duinocoin.com
+    icon: https://duinocoin.com/assets/icons/duco.svg
   - name: Duino-Coin API
     url: https://server.duinocoin.com/ping
     __dangerous__body_down_if_text_missing: '{"result":"Pong!","server":"master","success":true}'
   - name: Duino-Coin Wallet
     url: https://wallet.duinocoin.com
+    icon: https://wallet.duinocoin.com/assets/duco.svg
   - name: Duino-Coin Server
     url: https://server.duinocoin.com
   - name: Duino-Coin Explorer
     url: https://explorer.duinocoin.com
+    icon: https://explorer.duinocoin.com/assets/duco.svg
   - name: Duino-Coin Exchange
     url: https://exchange.duinocoin.com
   - name: Duino-Coin BSC Wrapper
@@ -30,6 +33,8 @@ status-website:
   introTitle: "**Duino-Coin Service Status**"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
+    - title: Duinocoin.com
+      href: https://duinocoin.com
     - title: Status
       href: /
     - title: GitHub
