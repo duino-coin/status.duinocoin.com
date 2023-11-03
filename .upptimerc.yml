@@ -5,8 +5,18 @@ repo: status-page # The name of this repository
 sites:
   - name: Duinocoin.com
     url: https://duinocoin.com
-  - name: duinoless.ohno.kom (broken site for testing)
-    url: https://duinoless.ohno.kom
+  - name: Duino-Coin API
+    url: https://server.duinocoin.com/ping
+  - name: Duino-Coin Wallet
+    url: https://wallet.duinocoin.com
+  - name: Duino-Coin Server
+    url: https://server.duinocoin.com
+  - name: Duino-Coin Explorer
+    url: https://explorer.duinocoin.com
+  - name: Duino-Coin Exchange
+    url: https://exchange.duinocoin.com
+  - name: Duino-Coin BSC Wrapper
+    url: https://bsc.duinocoin.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,8 +26,8 @@ status-website:
   baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Duino-Coin Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Duino-Coin Service Status**"
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
