@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: duino-coin.github.io
   # using duino-coin.github.io for testing cause cloudflare has a dns outage today
-  # baseUrl: /your-repo-name
+  baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Duino-Coin Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
