@@ -25,8 +25,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: dark
   cname: status.duinocoin.com
-  # using duino-coin.github.io for testing cause cloudflare has a dns outage today
   #baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/duino-coin/status-page/master/assets/duco.svg
   name: Duino-Coin Status
