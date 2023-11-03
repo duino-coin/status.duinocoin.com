@@ -25,7 +25,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  theme: dark
+  theme: night
   faviconSvg: https://raw.githubusercontent.com/duino-coin/status-page/master/assets/duco.svg
   cname: status.duinocoin.com
   #baseUrl: /status-page
