@@ -7,6 +7,7 @@ sites:
     url: https://duinocoin.com
   - name: Duino-Coin API
     url: https://server.duinocoin.com/ping
+    __dangerous__body_down_if_text_missing: '{"result":"Pong!","server":"master","success":true}'
   - name: Duino-Coin Wallet
     url: https://wallet.duinocoin.com
   - name: Duino-Coin Server
