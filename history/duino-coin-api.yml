@@ -1,7 +1,7 @@
 url: https://server.duinocoin.com/ping
-status: down
+status: up
 code: 200
-responseTime: 509
-lastUpdated: 2023-11-15T02:08:01.989Z
+responseTime: 155
+lastUpdated: 2023-11-15T03:00:14.233Z
 startTime: 2023-11-03T03:02:29.716Z
 generator: Upptime <https://github.com/upptime/upptime>
