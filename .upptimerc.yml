@@ -21,8 +21,6 @@ sites:
     url: https://exchange.duinocoin.com
   - name: Duino-Coin BSC Wrapper
     url: https://bsc.duinocoin.com
-  - name: Duino-Coin Status Test Website (non-existant)
-    url: https://test.duinocoin.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
