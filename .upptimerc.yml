@@ -6,14 +6,11 @@ sites:
   - name: Duinocoin.com
     url: https://duinocoin.com
     icon: https://duinocoin.com/assets/icons/duco.svg
-  - name: Duino-Coin API
-    url: https://server.duinocoin.com/ping
-    __dangerous__body_down_if_text_missing: '{"result":"Pong!","server":"master","success":true}'
+  - name: Duino-Coin Server & API
+    url: https://server.duinocoin.com
   - name: Duino-Coin Wallet
     url: https://wallet.duinocoin.com
     icon: https://wallet.duinocoin.com/assets/duco.svg
-  - name: Duino-Coin Server
-    url: https://server.duinocoin.com
   - name: Duino-Coin Explorer
     url: https://explorer.duinocoin.com
     icon: https://explorer.duinocoin.com/assets/duco.svg
