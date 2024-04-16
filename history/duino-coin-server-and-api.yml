@@ -1,7 +1,7 @@
 url: https://server.duinocoin.com
-status: down
-code: 502
-responseTime: 21259
-lastUpdated: 2024-04-16T01:19:45.228Z
+status: up
+code: 200
+responseTime: 597
+lastUpdated: 2024-04-16T02:01:20.622Z
 startTime: 2023-11-18T16:49:34.339Z
 generator: Upptime <https://github.com/upptime/upptime>
