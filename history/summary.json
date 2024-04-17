@@ -30,17 +30,17 @@
     "url": "https://server.duinocoin.com",
     "icon": "https://icons.duckduckgo.com/ip3/server.duinocoin.com.ico",
     "slug": "duino-coin-server-and-api",
-    "status": "up",
-    "uptime": "94.58%",
-    "uptimeDay": "4.62%",
+    "status": "down",
+    "uptime": "94.60%",
+    "uptimeDay": "6.66%",
     "uptimeWeek": "75.07%",
     "uptimeMonth": "75.81%",
-    "uptimeYear": "94.58%",
-    "time": 1132,
-    "timeDay": 373,
-    "timeWeek": 2298,
-    "timeMonth": 1429,
-    "timeYear": 1132,
+    "uptimeYear": "94.60%",
+    "time": 1129,
+    "timeDay": 378,
+    "timeWeek": 2251,
+    "timeMonth": 1418,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2024-04-17": 343,
       "2024-04-16": 1184,
@@ -67,8 +67,7 @@
       "2024-01-03": 264,
       "2024-01-02": 165,
       "2024-01-01": 120,
-      "2023-12-07": 17,
-      "2023-12-03": 52
+      "2023-12-07": 17
     }
   },
   {
