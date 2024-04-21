@@ -6,7 +6,7 @@
     "slug": "duinocoin-com",
     "status": "up",
     "uptime": "95.75%",
-    "uptimeDay": "17.55%",
+    "uptimeDay": "20.95%",
     "uptimeWeek": "41.11%",
     "uptimeMonth": "76.23%",
     "uptimeYear": "95.75%",
@@ -37,14 +37,14 @@
     "slug": "duino-coin-server-and-api",
     "status": "up",
     "uptime": "92.40%",
-    "uptimeDay": "16.64%",
+    "uptimeDay": "20.05%",
     "uptimeWeek": "23.35%",
-    "uptimeMonth": "63.71%",
+    "uptimeMonth": "63.75%",
     "uptimeYear": "92.40%",
     "time": 1091,
     "timeDay": 300,
     "timeWeek": 2056,
-    "timeMonth": 1301,
+    "timeMonth": 1310,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2024-04-21": 342,
@@ -155,11 +155,11 @@
     "url": "https://beyondfaucet.com",
     "icon": "https://icons.duckduckgo.com/ip3/beyondfaucet.com.ico",
     "slug": "beyond-faucet",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "78.87%",
+    "uptimeDay": "79.55%",
     "uptimeWeek": "79.14%",
-    "uptimeMonth": "94.43%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "98.87%",
     "time": 821,
     "timeDay": 423,
@@ -175,7 +175,7 @@
       "2024-04-16": 219,
       "2024-04-15": 178,
       "2024-04-14": 531,
-      "2024-04-13": 218
+      "2024-04-13": 206
     }
   }
 ]
