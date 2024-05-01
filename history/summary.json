@@ -16,7 +16,7 @@
     "timeMonth": 107,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-05-01": 1397,
+      "2024-05-01": 1399,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -53,11 +53,11 @@
     "uptimeYear": "86.99%",
     "time": 1043,
     "timeDay": 93,
-    "timeWeek": 80,
+    "timeWeek": 79,
     "timeMonth": 1142,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2024-05-01": 1397,
+      "2024-05-01": 1399,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -111,7 +111,7 @@
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 59,
-    "timeWeek": 96,
+    "timeWeek": 98,
     "timeMonth": 109,
     "timeYear": 133,
     "dailyMinutesDown": {}
@@ -129,8 +129,8 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 146,
-    "timeWeek": 119,
-    "timeMonth": 120,
+    "timeWeek": 124,
+    "timeMonth": 121,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -147,7 +147,7 @@
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 260,
-    "timeWeek": 104,
+    "timeWeek": 105,
     "timeMonth": 109,
     "timeYear": 121,
     "dailyMinutesDown": {}
@@ -165,8 +165,8 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 122,
-    "timeWeek": 114,
-    "timeMonth": 138,
+    "timeWeek": 104,
+    "timeMonth": 141,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -175,12 +175,12 @@
     "url": "https://beyondfaucet.com",
     "icon": "https://icons.duckduckgo.com/ip3/beyondfaucet.com.ico",
     "slug": "beyond-faucet",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "79.50%",
-    "uptimeWeek": "79.02%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "79.01%",
+    "uptimeMonth": "95.17%",
+    "uptimeYear": "99.08%",
     "time": 892,
     "timeDay": 390,
     "timeWeek": 1275,
@@ -194,7 +194,7 @@
       "2024-04-27": 244,
       "2024-04-26": 255,
       "2024-04-25": 446,
-      "2024-04-24": 45
+      "2024-04-24": 24
     }
   }
 ]
