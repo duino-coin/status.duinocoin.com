@@ -16,7 +16,7 @@
     "timeMonth": 108,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-05-04": 444,
+      "2024-05-04": 458,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -60,7 +60,7 @@
     "timeMonth": 1187,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2024-05-04": 444,
+      "2024-05-04": 458,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -181,15 +181,15 @@
     "url": "https://beyondfaucet.com",
     "icon": "https://icons.duckduckgo.com/ip3/beyondfaucet.com.ico",
     "slug": "beyond-faucet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "72.56%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "95.11%",
+    "uptimeDay": "72.54%",
+    "uptimeWeek": "80.11%",
+    "uptimeMonth": "95.16%",
     "uptimeYear": "99.09%",
     "time": 856,
     "timeDay": 356,
-    "timeWeek": 548,
+    "timeWeek": 547,
     "timeMonth": 794,
     "timeYear": 856,
     "dailyMinutesDown": {
@@ -201,7 +201,7 @@
       "2024-04-29": 271,
       "2024-04-28": 343,
       "2024-04-27": 244,
-      "2024-04-26": 47
+      "2024-04-26": 26
     }
   }
 ]
