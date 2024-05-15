@@ -8,7 +8,7 @@
     "uptime": "84.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.30%",
+    "uptimeMonth": "13.24%",
     "uptimeYear": "84.55%",
     "time": 132,
     "timeDay": 83,
@@ -16,7 +16,7 @@
     "timeMonth": 90,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-05-15": 205,
+      "2024-05-15": 231,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -63,7 +63,7 @@
     "uptime": "80.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "8.49%",
+    "uptimeMonth": "8.43%",
     "uptimeYear": "80.56%",
     "time": 1004,
     "timeDay": 121,
@@ -71,7 +71,7 @@
     "timeMonth": 1303,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2024-05-15": 205,
+      "2024-05-15": 232,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -203,12 +203,12 @@
     "url": "https://beyondfaucet.com",
     "icon": "https://icons.duckduckgo.com/ip3/beyondfaucet.com.ico",
     "slug": "beyond-faucet",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "72.30%",
-    "uptimeWeek": "80.12%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "72.29%",
+    "uptimeWeek": "80.24%",
+    "uptimeMonth": "94.51%",
+    "uptimeYear": "99.04%",
     "time": 763,
     "timeDay": 349,
     "timeWeek": 445,
@@ -223,7 +223,7 @@
       "2024-05-10": 285,
       "2024-05-09": 339,
       "2024-05-08": 285,
-      "2024-05-07": 325
+      "2024-05-07": 312
     }
   }
 ]
