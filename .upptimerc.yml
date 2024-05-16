@@ -3,24 +3,36 @@ owner: duino-coin # Your GitHub organization or username, where this repository 
 repo: status-page # The name of this repository
 
 sites:
-  - name: Duinocoin.com
+  - name: Homepage
     url: https://duinocoin.com
     icon: https://duinocoin.com/assets/icons/duco.svg
-  - name: Duino-Coin Masternodes
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: Masternodes
     url: https://server.duinocoin.com/api.json
     icon: https://duinocoin.com/assets/icons/duco.svg
-  - name: Duino-Coin APIs
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: APIs
     url: https://server.duinocoin.com/statistics
     icon: https://duinocoin.com/assets/icons/duco.svg
-  - name: Duino-Coin Wallet
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: Web Wallet
     url: https://wallet.duinocoin.com
     icon: https://wallet.duinocoin.com/assets/duco.svg
-  - name: Duino-Coin Explorer
+  - name: Network stats & explorer
     url: https://explorer.duinocoin.com
     icon: https://explorer.duinocoin.com/assets/duco.svg
-  - name: Duino-Coin Exchange
+  - name: DUCO Exchange
     url: https://exchange.duinocoin.com
-  - name: Duino-Coin BSC Wrapper
+  - name: BSC Wrapper
     url: https://bsc.duinocoin.com
   #- name: BeyondFaucet
   #  url: https://beyondfaucet.com
@@ -37,8 +49,6 @@ status-website:
   introTitle: "**Duino-Coin Service Status**"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Duinocoin.com
-      href: https://duinocoin.com
     - title: Wallet
       href: https://wallet.duinocoin.com
     - title: Explorer
