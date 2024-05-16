@@ -6,8 +6,12 @@ sites:
   - name: Duinocoin.com
     url: https://duinocoin.com
     icon: https://duinocoin.com/assets/icons/duco.svg
-  - name: Duino-Coin Server & API
-    url: https://server.duinocoin.com
+  - name: Duino-Coin Masternodes
+    url: https://server.duinocoin.com/api.json
+    icon: https://duinocoin.com/assets/icons/duco.svg
+  - name: Duino-Coin APIs
+    url: https://server.duinocoin.com/statistics
+    icon: https://duinocoin.com/assets/icons/duco.svg
   - name: Duino-Coin Wallet
     url: https://wallet.duinocoin.com
     icon: https://wallet.duinocoin.com/assets/duco.svg
@@ -18,8 +22,8 @@ sites:
     url: https://exchange.duinocoin.com
   - name: Duino-Coin BSC Wrapper
     url: https://bsc.duinocoin.com
-  - name: BeyondFaucet
-    url: https://beyondfaucet.com
+  #- name: BeyondFaucet
+  #  url: https://beyondfaucet.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
