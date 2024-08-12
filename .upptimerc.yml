@@ -1,36 +1,60 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: duino-coin # Your GitHub organization or username, where this repository lives
+repo: status.duinocoin.com # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Homepage
+    url: https://duinocoin.com
+    icon: https://duinocoin.com/assets/icons/duco.svg
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: Masternodes
+    url: https://server.duinocoin.com/api.json
+    icon: https://duinocoin.com/assets/icons/duco.svg
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: APIs
+    url: https://server.duinocoin.com/statistics
+    icon: https://duinocoin.com/assets/icons/duco.svg
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: Web Wallet
+    url: https://wallet.duinocoin.com
+    icon: https://wallet.duinocoin.com/assets/duco.svg
+  - name: Network stats & explorer
+    url: https://explorer.duinocoin.com
+    icon: https://explorer.duinocoin.com/assets/duco.svg
+  - name: DUCO Exchange
+    url: https://exchange.duinocoin.com
+  - name: BSC Wrapper
+    url: https://bsc.duinocoin.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: night
+  faviconSvg: https://raw.githubusercontent.com/duino-coin/status-page/master/assets/duco.svg
+  cname: status.duinocoin.com
+  #baseUrl: /status.duinocoin.com
+  logoUrl: https://raw.githubusercontent.com/duino-coin/status-page/master/assets/duco.svg
+  name: Duino-Coin Status
+  introTitle: "**Duino-Coin Service Status**"
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://duinocoin.com
+    - title: Wallet
+      href: https://wallet.duinocoin.com
+    - title: Explorer
+      href: https://explorer.duinocoin.com
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
