@@ -131,19 +131,17 @@
     "icon": "https://magi.duinocoin.com/images/magi2021_dark.png",
     "slug": "magi-by-duino-coin",
     "status": "up",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 104,
     "timeWeek": 104,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2024-08-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Magi API",
