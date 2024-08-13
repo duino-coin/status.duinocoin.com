@@ -34,6 +34,16 @@ sites:
     url: https://exchange.duinocoin.com
   - name: BSC Wrapper
     url: https://bsc.duinocoin.com
+  - name: Magi by Duino-Coin
+    url: https://magi.duinocoin.com
+    icon: https://magi.duinocoin.com/images/magi2021_dark.png
+  - name: Magi API
+    url: https://magi.duinocoin.com/statistics
+    icon: https://magi.duinocoin.com/images/magi2021_dark.png
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
