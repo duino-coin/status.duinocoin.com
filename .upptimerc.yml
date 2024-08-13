@@ -37,6 +37,10 @@ sites:
   - name: Magi by Duino-Coin
     url: https://magi.duinocoin.com
     icon: https://magi.duinocoin.com/images/magi2021_dark.png
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: Magi API
     url: https://magi.duinocoin.com/statistics
     icon: https://magi.duinocoin.com/images/magi2021_dark.png
