@@ -112,19 +112,19 @@
     "url": "https://bsc.duinocoin.com",
     "icon": "https://icons.duckduckgo.com/ip3/bsc.duinocoin.com.ico",
     "slug": "bsc-wrapper",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 124,
-    "timeWeek": 199,
-    "timeMonth": 184,
+    "timeDay": 137,
+    "timeWeek": 193,
+    "timeMonth": 183,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-04-07": 0
+      "2025-04-07": 5
     }
   },
   {
