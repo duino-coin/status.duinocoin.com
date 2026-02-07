@@ -48,6 +48,18 @@ sites:
       - 200
       - 201
       - 403
+  - name: Unipoolia Node 1
+    check: "tcp-ping"
+    url: $UNIPOOLIA
+    port: 5089
+  - name: Unipoolia Node 2
+    check: "tcp-ping"
+    url: $UNIPOOLIA
+    port: 6292
+  - name: JPX Node 1
+    check: "tcp-ping"
+    url: $JPX
+    port: 32811
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
