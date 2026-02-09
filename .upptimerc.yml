@@ -64,10 +64,6 @@ sites:
     check: "tcp-ping"
     url: $DARKHUNTER
     port: 2850
-  - name: Berlin Node
-    check: "tcp-ping"
-    url: $BERLIN
-    port: 8500
   - name: Gubiani Node 1
     check: "tcp-ping"
     url: $GUBIANI1
