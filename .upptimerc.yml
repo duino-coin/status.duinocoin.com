@@ -60,6 +60,38 @@ sites:
     check: "tcp-ping"
     url: $JPX
     port: 32811
+  - name: DarkHunter Node
+    check: "tcp-ping"
+    url: $DARKHUNTER
+    port: 2850
+  - name: Berlin Node
+    check: "tcp-ping"
+    url: $BERLIN
+    port: 8500
+  - name: Gubiani Node 1
+    check: "tcp-ping"
+    url: $GUBIANI1
+    port: 5089
+  - name: Gubiani Node 2
+    check: "tcp-ping"
+    url: $GUBIANI2
+    port: 5100
+  - name: MCJohn Node 1
+    check: "tcp-ping"
+    url: $MCJOHN1
+    port: 7912
+  - name: MCJohn Node 2
+    check: "tcp-ping"
+    url: $MCJOHN2
+    port: 8080
+  - name: MCJohn USE Node 1
+    check: "tcp-ping"
+    url: $MCJOHN3
+    port: 7913
+  - name: Rust Node 1
+    check: "tcp-ping"
+    url: $RUST1
+    port: 6000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
