@@ -168,7 +168,7 @@
     "slug": "unipoolia-node-1",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "86.08%",
+    "uptimeDay": "87.78%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.35%",
@@ -187,11 +187,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unipoolia-node-2",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "86.17%",
+    "uptime": "99.36%",
+    "uptimeDay": "87.77%",
     "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 113,
     "timeDay": 110,
     "timeWeek": 107,
@@ -242,9 +242,9 @@
     "url": "$GUBIANI1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gubiani-node-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,7 +253,9 @@
     "timeWeek": 133,
     "timeMonth": 136,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-03": 0
+    }
   },
   {
     "name": "MCJohn Node 1",
