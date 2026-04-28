@@ -229,7 +229,7 @@
     "status": "up",
     "uptime": "93.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.65%",
+    "uptimeWeek": "92.20%",
     "uptimeMonth": "82.44%",
     "uptimeYear": "93.14%",
     "time": 165,
@@ -332,19 +332,19 @@
     "url": "$RUST1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rust-node-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.86%",
     "time": 124,
-    "timeDay": 116,
+    "timeDay": 123,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-04-28": 0
+      "2026-04-28": 156
     }
   }
 ]
