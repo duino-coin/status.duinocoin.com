@@ -150,9 +150,9 @@
     "slug": "magi-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 882,
     "timeDay": 7206,
@@ -160,7 +160,7 @@
     "timeMonth": 6683,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2026-06-13": 0
+      "2026-06-13": 4
     }
   },
   {
@@ -263,7 +263,7 @@
     "status": "up",
     "uptime": "95.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.52%",
+    "uptimeWeek": "50.48%",
     "uptimeMonth": "88.61%",
     "uptimeYear": "95.64%",
     "time": 136,
@@ -275,7 +275,7 @@
       "2026-03-03": 705,
       "2026-04-09": 1042,
       "2026-04-08": 991,
-      "2026-06-13": 231,
+      "2026-06-13": 234,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
