@@ -1,7 +1,7 @@
 url: https://server.duinocoin.com/statistics
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2026-07-07T00:04:52.322Z
+status: down
+code: 522
+responseTime: 19335
+lastUpdated: 2026-07-07T18:24:10.784Z
 startTime: 2024-08-12T16:25:10.736Z
 generator: Upptime <https://github.com/upptime/upptime>
