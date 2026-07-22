@@ -32,7 +32,7 @@
     "timeDay": 250,
     "timeWeek": 251,
     "timeMonth": 853,
-    "timeYear": 290,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2026-07-07": 119
     }
@@ -52,7 +52,7 @@
     "timeDay": 310,
     "timeWeek": 247,
     "timeMonth": 839,
-    "timeYear": 313,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2026-07-07": 206
     }
@@ -72,7 +72,7 @@
     "timeDay": 126,
     "timeWeek": 174,
     "timeMonth": 174,
-    "timeYear": 182,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -152,17 +152,17 @@
     "url": "https://magi.duinocoin.com/statistics",
     "icon": "https://magi.duinocoin.com/images/magi2021_dark.png",
     "slug": "magi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "42.67%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "53.31%",
     "uptimeMonth": "66.06%",
     "uptimeYear": "95.44%",
-    "time": 1319,
+    "time": 1322,
     "timeDay": 4445,
-    "timeWeek": 5565,
+    "timeWeek": 5681,
     "timeMonth": 6886,
-    "timeYear": 2650,
+    "timeYear": 2664,
     "dailyMinutesDown": {
       "2026-06-19": 707,
       "2026-06-18": 1440,
@@ -184,7 +184,8 @@
       "2026-07-19": 891,
       "2026-07-18": 1440,
       "2026-07-17": 1165,
-      "2026-07-20": 1210
+      "2026-07-20": 1210,
+      "2026-07-22": 0
     }
   },
   {
@@ -215,11 +216,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unipoolia-node-2",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 111,
     "timeDay": 109,
     "timeWeek": 102,
@@ -254,11 +255,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dark-hunter-node",
     "status": "up",
-    "uptime": "93.76%",
+    "uptime": "93.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.67%",
-    "uptimeYear": "93.76%",
+    "uptimeYear": "93.80%",
     "time": 165,
     "timeDay": 186,
     "timeWeek": 177,
@@ -289,11 +290,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gubiani-node-1",
     "status": "up",
-    "uptime": "72.67%",
+    "uptime": "72.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.67%",
+    "uptimeYear": "72.28%",
     "time": 137,
     "timeDay": 141,
     "timeWeek": 132,
@@ -303,7 +304,7 @@
       "2026-03-03": 705,
       "2026-04-09": 1042,
       "2026-04-08": 991,
-      "2026-07-22": 163,
+      "2026-07-22": 1416,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
